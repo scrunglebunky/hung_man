@@ -2,6 +2,10 @@
 - This is just a goofy little hangman clone that lets you put whatever images you'd like as lose graphics, win graphics, correc tor incorrect graphics, or even the heads of the hangmen!
 - You can even make custom lists! Maybe you'd like to use this for a classroom.
 - [DO NOT USE THIS FOR CLASSROOM PURPOSES AS THE GAME IS LOUD AND CHAOTIC]
+# CREDITS
+- MOST OF what is used here is just random goofy placeholder images
+- I do not know who made the sounds, music, or any of that for that matter.
+- If you would like to bother me about content in the game or in the game packs, email me at scrunglebunky@tutanota.com
 
 HOW TO PLAY
 - Type an alphabetical character to guess it on the list.
@@ -44,3 +48,11 @@ MUSIC
 - The simplest one
 - Just drag a song file into the music folder (.mp3,.wav) and let it run.
 - Don't be stupid. Longer files will use too much ram.
+
+
+
+CONTENT PACKS
+- There may be more images, lists, etc. put into the game. 
+- These are generally jokes, and not really that mature, but I will upload them as "CONTENT PACKS", which are .zip files that contain a bunch of different files.
+- In order to use them, extract them to THE GAME DATA FOLDER. DO NOT make a separate folder to hold the content pack. DO NOT move files INTO the content pack. 
+- Game packs, as of current, will be left as zip files in the repository
